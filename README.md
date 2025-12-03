@@ -5,3 +5,5 @@ Um projeto desenvolvido por mim e com ajuda das aulas da escola DNC, isso é uma
 
 # TypeScript
 Uso da linguagem de TypeScript, foi abordados alguns conceitos básicos e primordias dessa linguagens em aulas, nas quais apliquei nesse projeto.
+
+link de acesso: https://lista-de-tarefas-delta-livid.vercel.app/
